@@ -1,0 +1,9 @@
+timestamp,plate_number,location,alert_type,severity,status,notes
+2024-01-15 08:30:00,ABC1234,Railway Junction A,unauthorized_access,high,closed,Vehicle attempted entry
+2024-01-15 09:45:00,XYZ5678,Railway Track B,speed_violation,medium,closed,Excessive speed detected
+2024-01-15 10:15:00,DEF9012,Railway Station C,suspicious_activity,low,open,Unusual movement patterns
+2024-01-15 11:20:00,GHI3456,Railway Yard D,intrusion_attempt,high,closed,Fence breach detected
+2024-01-15 12:00:00,JKL7890,Railway Signal E,equipment_damage,medium,open,Signal post damaged
+2024-01-15 13:30:00,MNO1234,Railway Bridge F,traffic_anomaly,low,closed,Abnormal traffic pattern
+2024-01-15 14:45:00,PQR5678,Railway Depot G,unauthorized_vehicle,high,open,Unknown vehicle in restricted area
+2024-01-15 15:10:00,STU9012,Railway Crossing H,alarm_triggered,medium,closed,Crossing alarm activated
